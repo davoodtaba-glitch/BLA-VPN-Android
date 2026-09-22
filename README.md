@@ -33,7 +33,6 @@ A modern **Android Xray client** with Material 3 UI. Supports the same core feat
   <img src="photo_2026-09-22_11-30-31.jpg" width="180" alt="Home (FA)" />
   <img src="photo_2026-09-22_11-30-29.jpg" width="180" alt="Servers (FA)" />
   <img src="photo_2026-09-22_11-30-29 (2).jpg" width="180" alt="Import (FA)" />
-  <img src="docs/screenshots/screen-04.jpg" width="180" alt="Settings (FA)" />
 </p>
 
 
