@@ -35,22 +35,7 @@ A modern **Android Xray client** with Material 3 UI. Supports the same core feat
   <img src="photo_2026-09-22_11-30-29 (2).jpg" width="180" alt="Import (FA)" />
   <img src="docs/screenshots/screen-04.jpg" width="180" alt="Settings (FA)" />
 </p>
-<p align="center">
-  <img src="docs/screenshots/screen-05.jpg" width="180" alt="Settings routing" />
-  <img src="docs/screenshots/screen-06.jpg" width="180" alt="Session limits" />
-  <img src="docs/screenshots/screen-07.jpg" width="180" alt="Appearance" />
-  <img src="docs/screenshots/screen-08.jpg" width="180" alt="Language & fragment" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/screen-09.jpg" width="180" alt="Local ports" />
-  <img src="docs/screenshots/screen-10.jpg" width="180" alt="About / help" />
-  <img src="docs/screenshots/screen-11.jpg" width="180" alt="Per-app proxy" />
-  <img src="docs/screenshots/screen-12.jpg" width="180" alt="Quick setup" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/screen-13.jpg" width="180" alt="Home connected" />
-  <img src="docs/screenshots/screen-14.jpg" width="180" alt="Home connected (alt)" />
-</p>
+
 
 ### Screens (overview)
 
